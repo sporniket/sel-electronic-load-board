@@ -1155,19 +1155,15 @@ Text Label 5850 6400 2    50   ~ 0
 V_SENSE
 Wire Wire Line
 	5400 6400 5850 6400
-Text Label 4800 6050 0    50   ~ 0
+Text Label 4800 5800 0    50   ~ 0
 VCC
 Text Label 3300 6300 2    50   ~ 0
 GND
 Wire Wire Line
-	4800 6050 5000 6050
-Wire Wire Line
-	5000 6050 5000 6200
-Wire Wire Line
 	4800 7100 5000 7100
 Wire Wire Line
 	5000 7100 5000 7000
-Text Notes 3800 7600 0    50   ~ 0
+Text Notes 3800 7700 0    50   ~ 0
 Use a SOIC-8 current sensor using Hall effect, like \nACS712*, ACS723*, TMCS1108*, TMCS1107*.\n\nPin 7 : see the application note of your component
 $Comp
 L Mechanical:MountingHole_Pad H?
@@ -1383,4 +1379,49 @@ Wire Wire Line
 	3850 6300 4200 6300
 Wire Wire Line
 	4200 6300 4200 6400
+$Comp
+L Device:C C?
+U 1 1 62B12721
+P 4550 6050
+AR Path="/627E1114/617D5FF5/62B12721" Ref="C?"  Part="1" 
+AR Path="/62B12721" Ref="C?"  Part="1" 
+F 0 "C?" H 4300 6150 50  0000 L CNN
+F 1 "0.1uF" H 4250 6050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 4588 5900 50  0001 C CNN
+F 3 "~" H 4550 6050 50  0001 C CNN
+	1    4550 6050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 6300 4550 6300
+Text Label 4350 6300 0    50   ~ 0
+GND
+Wire Wire Line
+	5000 5800 5000 6200
+$Comp
+L Jumper:SolderJumper_2_Open JP?
+U 1 1 62B47189
+P 5250 7100
+F 0 "JP?" H 5250 7180 50  0000 C CNN
+F 1 "If needed by the IC" H 5250 6950 50  0000 C CNN
+F 2 "" H 5250 7100 50  0001 C CNN
+F 3 "~" H 5250 7100 50  0001 C CNN
+	1    5250 7100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 7100 5100 7100
+Connection ~ 5000 7100
+Wire Wire Line
+	5400 7100 5500 7100
+Wire Wire Line
+	5500 7100 5500 6700
+Wire Wire Line
+	5500 6700 5400 6700
+Wire Wire Line
+	4550 6200 4550 6300
+Wire Wire Line
+	4550 5800 4550 5900
+Wire Wire Line
+	4550 5800 5000 5800
 $EndSCHEMATC
