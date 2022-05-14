@@ -1112,8 +1112,6 @@ Wire Wire Line
 Connection ~ 8100 5500
 Wire Notes Line
 	5500 3050 11000 3050
-Text Notes 11950 5850 0    79   ~ 0
-PCB Trace Width Calculator\nhttps://www.4pcb.com/trace-width-calculator.html\n\nInputs:\nCurrent..... 2 Amps\nThickness... 1 oz/ft^2\n\nOptional Inputs:\nTemperature Rise...... 11 Deg\nAmbient Temperature... 25 Deg\nTrace Length.......... 10 cm\n\nResults for External Layers in Air:\nRequired Trace Width.... 29.0    mils (0.738 mm)\nResistance............... 0.0687 Ohms\nVoltage Drop............. 0.137  Volts\nPower Loss............... 0.275  Watts\n\n\nFor the same trace width, with a thickness of 2 oz/ft^2 :\nCurrent............ 3.3 Amps\nResistance......... 0.0344 Ohms\nVoltage Drop....... 0.114  Volts\nPower Loss......... 0.375  Watts\n
 Wire Notes Line
 	5500 6100 11000 6100
 Wire Notes Line
@@ -1224,8 +1222,8 @@ Text Label 4350 7200 0    50   ~ 0
 GND
 Wire Wire Line
 	3850 6800 4150 6800
-Text Notes 2950 5650 0    100  ~ 0
-DUT <-> DMM <-> Sensor
+Text Notes 2600 5650 0    100  ~ 0
+DUT <-> DMM <-> Sensor & Sink
 $Comp
 L Connector_Generic:Conn_02x05_Odd_Even J?
 U 1 1 629D0263
