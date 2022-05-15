@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "2022-05-13"
-Rev ""
+Title "Electronic load module"
+Date "2022-05-15"
+Rev "1.0.0-draft"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -1355,7 +1355,7 @@ U 1 1 62A98008
 P 3900 6500
 F 0 "SW1" H 3900 6300 50  0000 C CNN
 F 1 "DMM bypass" H 3900 6200 50  0000 C CNN
-F 2 "" H 3900 6500 50  0001 C CNN
+F 2 "switches:toggle-switch-P4.70mm-3pins-75mils-vias" H 3900 6500 50  0001 C CNN
 F 3 "~" H 3900 6500 50  0001 C CNN
 	1    3900 6500
 	1    0    0    -1  
