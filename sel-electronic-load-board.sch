@@ -21,7 +21,7 @@ AR Path="/627E10B1/627E4711" Ref="Q?"  Part="1"
 AR Path="/627E4711" Ref="Q1"  Part="1" 
 F 0 "Q1" H 1400 1550 50  0000 L CNN
 F 1 "N-mosfet" H 1400 1450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 1400 1600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 1400 1600 50  0001 C CNN
 F 3 "~" H 1200 1500 50  0001 C CNN
 	1    1200 1500
 	1    0    0    -1  
@@ -50,7 +50,7 @@ AR Path="/627E10B1/627E648E" Ref="Q?"  Part="1"
 AR Path="/627E648E" Ref="Q2"  Part="1" 
 F 0 "Q2" H 2600 1550 50  0000 L CNN
 F 1 "N-mosfet" H 2600 1450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 2600 1600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2600 1600 50  0001 C CNN
 F 3 "~" H 2400 1500 50  0001 C CNN
 	1    2400 1500
 	1    0    0    -1  
@@ -79,7 +79,7 @@ AR Path="/627E10B1/627E761F" Ref="Q?"  Part="1"
 AR Path="/627E761F" Ref="Q3"  Part="1" 
 F 0 "Q3" H 3800 1550 50  0000 L CNN
 F 1 "N-mosfet" H 3800 1450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 3800 1600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3800 1600 50  0001 C CNN
 F 3 "~" H 3600 1500 50  0001 C CNN
 	1    3600 1500
 	1    0    0    -1  
@@ -108,7 +108,7 @@ AR Path="/627E10B1/627E8289" Ref="Q?"  Part="1"
 AR Path="/627E8289" Ref="Q4"  Part="1" 
 F 0 "Q4" H 5000 1550 50  0000 L CNN
 F 1 "N-mosfet" H 5000 1450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 5000 1600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5000 1600 50  0001 C CNN
 F 3 "~" H 4800 1500 50  0001 C CNN
 	1    4800 1500
 	1    0    0    -1  
@@ -137,7 +137,7 @@ AR Path="/627E10B1/627ED67B" Ref="Q?"  Part="1"
 AR Path="/627ED67B" Ref="Q5"  Part="1" 
 F 0 "Q5" H 1400 2550 50  0000 L CNN
 F 1 "N-mosfet" H 1400 2450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 1400 2600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 1400 2600 50  0001 C CNN
 F 3 "~" H 1200 2500 50  0001 C CNN
 	1    1200 2500
 	1    0    0    -1  
@@ -166,7 +166,7 @@ AR Path="/627E10B1/627ED689" Ref="Q?"  Part="1"
 AR Path="/627ED689" Ref="Q6"  Part="1" 
 F 0 "Q6" H 2600 2550 50  0000 L CNN
 F 1 "N-mosfet" H 2600 2450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 2600 2600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2600 2600 50  0001 C CNN
 F 3 "~" H 2400 2500 50  0001 C CNN
 	1    2400 2500
 	1    0    0    -1  
@@ -195,7 +195,7 @@ AR Path="/627E10B1/627ED697" Ref="Q?"  Part="1"
 AR Path="/627ED697" Ref="Q7"  Part="1" 
 F 0 "Q7" H 3800 2550 50  0000 L CNN
 F 1 "N-mosfet" H 3800 2450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 3800 2600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3800 2600 50  0001 C CNN
 F 3 "~" H 3600 2500 50  0001 C CNN
 	1    3600 2500
 	1    0    0    -1  
@@ -224,7 +224,7 @@ AR Path="/627E10B1/627ED6A5" Ref="Q?"  Part="1"
 AR Path="/627ED6A5" Ref="Q8"  Part="1" 
 F 0 "Q8" H 5000 2550 50  0000 L CNN
 F 1 "N-mosfet" H 5000 2450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 5000 2600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5000 2600 50  0001 C CNN
 F 3 "~" H 4800 2500 50  0001 C CNN
 	1    4800 2500
 	1    0    0    -1  
@@ -253,7 +253,7 @@ AR Path="/627E10B1/627F183F" Ref="Q?"  Part="1"
 AR Path="/627F183F" Ref="Q9"  Part="1" 
 F 0 "Q9" H 1400 3550 50  0000 L CNN
 F 1 "N-mosfet" H 1400 3450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 1400 3600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 1400 3600 50  0001 C CNN
 F 3 "~" H 1200 3500 50  0001 C CNN
 	1    1200 3500
 	1    0    0    -1  
@@ -282,7 +282,7 @@ AR Path="/627E10B1/627F184D" Ref="Q?"  Part="1"
 AR Path="/627F184D" Ref="Q10"  Part="1" 
 F 0 "Q10" H 2600 3550 50  0000 L CNN
 F 1 "N-mosfet" H 2600 3450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 2600 3600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2600 3600 50  0001 C CNN
 F 3 "~" H 2400 3500 50  0001 C CNN
 	1    2400 3500
 	1    0    0    -1  
@@ -311,7 +311,7 @@ AR Path="/627E10B1/627F185B" Ref="Q?"  Part="1"
 AR Path="/627F185B" Ref="Q11"  Part="1" 
 F 0 "Q11" H 3800 3550 50  0000 L CNN
 F 1 "N-mosfet" H 3800 3450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 3800 3600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3800 3600 50  0001 C CNN
 F 3 "~" H 3600 3500 50  0001 C CNN
 	1    3600 3500
 	1    0    0    -1  
@@ -340,7 +340,7 @@ AR Path="/627E10B1/627F1869" Ref="Q?"  Part="1"
 AR Path="/627F1869" Ref="Q12"  Part="1" 
 F 0 "Q12" H 5000 3550 50  0000 L CNN
 F 1 "N-mosfet" H 5000 3450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 5000 3600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5000 3600 50  0001 C CNN
 F 3 "~" H 4800 3500 50  0001 C CNN
 	1    4800 3500
 	1    0    0    -1  
@@ -369,7 +369,7 @@ AR Path="/627E10B1/627F4593" Ref="Q?"  Part="1"
 AR Path="/627F4593" Ref="Q13"  Part="1" 
 F 0 "Q13" H 1400 4550 50  0000 L CNN
 F 1 "N-mosfet" H 1400 4450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 1400 4600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 1400 4600 50  0001 C CNN
 F 3 "~" H 1200 4500 50  0001 C CNN
 	1    1200 4500
 	1    0    0    -1  
@@ -398,7 +398,7 @@ AR Path="/627E10B1/627F45A1" Ref="Q?"  Part="1"
 AR Path="/627F45A1" Ref="Q14"  Part="1" 
 F 0 "Q14" H 2600 4550 50  0000 L CNN
 F 1 "N-mosfet" H 2600 4450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 2600 4600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2600 4600 50  0001 C CNN
 F 3 "~" H 2400 4500 50  0001 C CNN
 	1    2400 4500
 	1    0    0    -1  
@@ -427,7 +427,7 @@ AR Path="/627E10B1/627F45AF" Ref="Q?"  Part="1"
 AR Path="/627F45AF" Ref="Q15"  Part="1" 
 F 0 "Q15" H 3800 4550 50  0000 L CNN
 F 1 "N-mosfet" H 3800 4450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 3800 4600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3800 4600 50  0001 C CNN
 F 3 "~" H 3600 4500 50  0001 C CNN
 	1    3600 4500
 	1    0    0    -1  
@@ -456,7 +456,7 @@ AR Path="/627E10B1/627F45BD" Ref="Q?"  Part="1"
 AR Path="/627F45BD" Ref="Q16"  Part="1" 
 F 0 "Q16" H 5000 4550 50  0000 L CNN
 F 1 "N-mosfet" H 5000 4450 50  0000 L CNN
-F 2 "electronic-load:TO220-GDS-Heatsink-1000mils-interaxe-91mils-pin-radius" H 5000 4600 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5000 4600 50  0001 C CNN
 F 3 "~" H 4800 4500 50  0001 C CNN
 	1    4800 4500
 	1    0    0    -1  
@@ -1120,7 +1120,7 @@ U 1 1 62804174
 P 3100 6100
 F 0 "H2" H 3100 6350 50  0000 C CNN
 F 1 "DUT-" H 3100 6275 50  0000 C CNN
-F 2 "" H 3100 6100 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 3100 6100 50  0001 C CNN
 F 3 "~" H 3100 6100 50  0001 C CNN
 	1    3100 6100
 	1    0    0    -1  
@@ -1131,7 +1131,7 @@ U 1 1 6281D7B5
 P 3850 6100
 F 0 "H4" H 3850 6350 50  0000 C CNN
 F 1 "DMM-" H 3850 6275 50  0000 C CNN
-F 2 "" H 3850 6100 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 3850 6100 50  0001 C CNN
 F 3 "~" H 3850 6100 50  0001 C CNN
 	1    3850 6100
 	1    0    0    -1  
@@ -1169,7 +1169,7 @@ U 1 1 6281D336
 P 3600 6100
 F 0 "H3" H 3600 6350 50  0000 C CNN
 F 1 "DMM+" H 3600 6275 50  0000 C CNN
-F 2 "" H 3600 6100 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 3600 6100 50  0001 C CNN
 F 3 "~" H 3600 6100 50  0001 C CNN
 	1    3600 6100
 	1    0    0    -1  
@@ -1180,7 +1180,7 @@ U 1 1 627FB800
 P 2850 6100
 F 0 "H1" H 2850 6350 50  0000 C CNN
 F 1 "DUT+" H 2850 6275 50  0000 C CNN
-F 2 "" H 2850 6100 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 2850 6100 50  0001 C CNN
 F 3 "~" H 2850 6100 50  0001 C CNN
 	1    2850 6100
 	1    0    0    -1  
@@ -1195,7 +1195,7 @@ U 1 1 628EC131
 P 3350 6500
 F 0 "F1" V 3430 6500 50  0000 C CNN
 F 1 "Fuse 4A" V 3275 6500 50  0000 C CNN
-F 2 "" V 3280 6500 50  0001 C CNN
+F 2 "Fuse:Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open" V 3280 6500 50  0001 C CNN
 F 3 "~" H 3350 6500 50  0001 C CNN
 	1    3350 6500
 	0    1    1    0   
@@ -1218,7 +1218,7 @@ U 1 1 629D0263
 P 1450 6300
 F 0 "J1" H 1500 6600 50  0000 C CNN
 F 1 "HE10 receptacle" H 1500 6000 50  0000 C CNN
-F 2 "" H 1450 6300 50  0001 C CNN
+F 2 "Connector_IDC:IDC-Header_2x05_P2.54mm_Horizontal" H 1450 6300 50  0001 C CNN
 F 3 "~" H 1450 6300 50  0001 C CNN
 	1    1450 6300
 	1    0    0    -1  
@@ -1303,7 +1303,7 @@ U 1 1 62A6FE39
 P 6500 6500
 F 0 "H5" H 6500 6700 50  0000 C CNN
 F 1 "MountingHole" H 6500 6625 50  0000 C CNN
-F 2 "" H 6500 6500 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 6500 6500 50  0001 C CNN
 F 3 "~" H 6500 6500 50  0001 C CNN
 	1    6500 6500
 	1    0    0    -1  
@@ -1314,7 +1314,7 @@ U 1 1 62A7029E
 P 6500 6850
 F 0 "H6" H 6500 7050 50  0000 C CNN
 F 1 "MountingHole" H 6500 6975 50  0000 C CNN
-F 2 "" H 6500 6850 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 6500 6850 50  0001 C CNN
 F 3 "~" H 6500 6850 50  0001 C CNN
 	1    6500 6850
 	1    0    0    -1  
@@ -1325,7 +1325,7 @@ U 1 1 62A70829
 P 6500 7200
 F 0 "H7" H 6500 7400 50  0000 C CNN
 F 1 "MountingHole" H 6500 7325 50  0000 C CNN
-F 2 "" H 6500 7200 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 6500 7200 50  0001 C CNN
 F 3 "~" H 6500 7200 50  0001 C CNN
 	1    6500 7200
 	1    0    0    -1  
@@ -1336,7 +1336,7 @@ U 1 1 62A70CFB
 P 6500 7550
 F 0 "H8" H 6500 7750 50  0000 C CNN
 F 1 "MountingHole" H 6500 7675 50  0000 C CNN
-F 2 "" H 6500 7550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 6500 7550 50  0001 C CNN
 F 3 "~" H 6500 7550 50  0001 C CNN
 	1    6500 7550
 	1    0    0    -1  
@@ -1402,7 +1402,7 @@ U 1 1 62B47189
 P 5250 7100
 F 0 "JP1" H 5250 7180 50  0000 C CNN
 F 1 "If needed by the IC" H 5250 6950 50  0000 C CNN
-F 2 "" H 5250 7100 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5250 7100 50  0001 C CNN
 F 3 "~" H 5250 7100 50  0001 C CNN
 	1    5250 7100
 	1    0    0    -1  
