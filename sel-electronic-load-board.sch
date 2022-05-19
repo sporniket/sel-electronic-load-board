@@ -830,15 +830,15 @@ F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 7900 4000 50  0001 C CNN
 $EndComp
 $Comp
 L Device:R_Pack04_Split RN?
-U 2 1 62867A5A
+U 3 1 62867A5A
 P 7900 5500
 AR Path="/627E1114/617D5FF5/62867A5A" Ref="RN?"  Part="1" 
-AR Path="/62867A5A" Ref="RN3"  Part="2" 
+AR Path="/62867A5A" Ref="RN3"  Part="3" 
 F 0 "RN3" V 8000 5500 50  0000 C CNN
 F 1 "10K" V 8100 5500 50  0000 C CNN
 F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 7820 5500 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 7900 5500 50  0001 C CNN
-	2    7900 5500
+	3    7900 5500
 	0    1    1    0   
 $EndComp
 $Comp
@@ -912,16 +912,16 @@ F 3 "~" H 8500 4750 50  0001 C CNN
 $EndComp
 $Comp
 L Device:R_Pack04_Split RN?
-U 3 1 62867A8F
+U 4 1 62867A8F
 P 8350 5500
 AR Path="/627E1114/617D5FF5/62867A8F" Ref="RN?"  Part="4" 
-AR Path="/62867A8F" Ref="RN3"  Part="3" 
+AR Path="/62867A8F" Ref="RN3"  Part="4" 
 F 0 "RN3" V 8250 5500 50  0000 C CNN
 F 1 "10K" V 8150 5500 50  0000 C CNN
 F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 8270 5500 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 8350 5500 50  0001 C CNN
-	3    8350 5500
-	0    -1   -1   0   
+	4    8350 5500
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Pack04_Split RN?
@@ -934,7 +934,7 @@ F 1 "10K" H 7800 4300 50  0000 C CNN
 F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 7570 4250 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 7650 4250 50  0001 C CNN
 	4    7650 4250
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Pack04_Split RN?
@@ -947,7 +947,7 @@ F 1 "10K" H 7500 5200 50  0000 C CNN
 F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 7570 5250 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 7650 5250 50  0001 C CNN
 	1    7650 5250
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	8800 4750 8850 4750
@@ -1424,4 +1424,19 @@ Wire Wire Line
 	4550 5800 5000 5800
 Wire Wire Line
 	9500 3550 9500 3600
+$Comp
+L Device:R_Pack04_Split RN?
+U 2 1 62885B53
+P 8150 5850
+AR Path="/627E1114/617D5FF5/62885B53" Ref="RN?"  Part="1" 
+AR Path="/62885B53" Ref="RN3"  Part="2" 
+F 0 "RN3" V 8250 5850 50  0000 C CNN
+F 1 "10K" V 8350 5850 50  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 8070 5850 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 8150 5850 50  0001 C CNN
+	2    8150 5850
+	0    1    1    0   
+$EndComp
+NoConn ~ 8000 5850
+NoConn ~ 8300 5850
 $EndSCHEMATC
