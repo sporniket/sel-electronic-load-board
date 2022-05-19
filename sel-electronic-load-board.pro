@@ -1,4 +1,4 @@
-update=jeu. 19 mai 2022 06:43:03 CEST
+update=jeu. 19 mai 2022 21:44:24 CEST
 version=1
 last_client=kicad
 [general]
@@ -221,7 +221,7 @@ Enabled=0
 [pcbnew/Layer.F.SilkS]
 Enabled=1
 [pcbnew/Layer.B.Mask]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.F.Mask]
 Enabled=1
 [pcbnew/Layer.Dwgs.User]
