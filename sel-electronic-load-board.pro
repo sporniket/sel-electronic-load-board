@@ -1,4 +1,4 @@
-update=dim. 15 mai 2022 11:09:50 CEST
+update=jeu. 19 mai 2022 06:43:03 CEST
 version=1
 last_client=kicad
 [general]
@@ -260,7 +260,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=2A
-Clearance=0.2
+Clearance=0.3
 TrackWidth=0.8
 ViaDiameter=1.2
 ViaDrill=0.4
@@ -271,7 +271,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
 Name=3A
-Clearance=0.2
+Clearance=0.4
 TrackWidth=1.4
 ViaDiameter=1.9
 ViaDrill=0.5
@@ -282,7 +282,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/3]
 Name=4A
-Clearance=0.2
+Clearance=0.5
 TrackWidth=2.1
 ViaDiameter=2.7
 ViaDrill=0.6

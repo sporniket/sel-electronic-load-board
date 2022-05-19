@@ -576,28 +576,28 @@ Wire Wire Line
 $Comp
 L Device:R_Pack04_Split RN?
 U 4 1 627FE4E1
-P 9250 2600
+P 7200 2050
 AR Path="/627E1114/617D6ABB/627FE4E1" Ref="RN?"  Part="2" 
 AR Path="/627FE4E1" Ref="RN1"  Part="4" 
-F 0 "RN1" V 9350 2600 50  0000 C CNN
-F 1 "10K" V 9450 2600 50  0000 C CNN
-F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 9170 2600 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 9250 2600 50  0001 C CNN
-	4    9250 2600
-	0    1    1    0   
+F 0 "RN1" V 7300 2050 50  0000 C CNN
+F 1 "10K" V 7400 2050 50  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 7120 2050 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 7200 2050 50  0001 C CNN
+	4    7200 2050
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Pack04_Split RN?
 U 3 1 627FE4E7
-P 8600 2400
+P 6500 2050
 AR Path="/627E1114/617D6ABB/627FE4E7" Ref="RN?"  Part="1" 
 AR Path="/627FE4E7" Ref="RN1"  Part="3" 
-F 0 "RN1" V 8700 2400 50  0000 C CNN
-F 1 "10K" V 8800 2400 50  0000 C CNN
-F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 8520 2400 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 8600 2400 50  0001 C CNN
-	3    8600 2400
-	0    1    1    0   
+F 0 "RN1" V 6600 2050 50  0000 C CNN
+F 1 "10K" V 6700 2050 50  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 6420 2050 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 6500 2050 50  0001 C CNN
+	3    6500 2050
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R_Pack04_Split RN?
@@ -615,28 +615,28 @@ $EndComp
 $Comp
 L Device:R_Pack04_Split RN?
 U 2 1 627FE4F3
-P 7200 2050
+P 8600 2400
 AR Path="/627E1114/617D6ABB/627FE4F3" Ref="RN?"  Part="2" 
 AR Path="/627FE4F3" Ref="RN1"  Part="2" 
-F 0 "RN1" H 7400 2000 50  0000 C CNN
-F 1 "10K" H 7400 2100 50  0000 C CNN
-F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 7120 2050 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 7200 2050 50  0001 C CNN
-	2    7200 2050
-	-1   0    0    1   
+F 0 "RN1" H 8800 2350 50  0000 C CNN
+F 1 "10K" H 8800 2450 50  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 8520 2400 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 8600 2400 50  0001 C CNN
+	2    8600 2400
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Pack04_Split RN?
 U 1 1 627FE4F9
-P 6500 2050
+P 9250 2600
 AR Path="/627E1114/617D6ABB/627FE4F9" Ref="RN?"  Part="1" 
 AR Path="/627FE4F9" Ref="RN1"  Part="1" 
-F 0 "RN1" H 6700 2000 50  0000 C CNN
-F 1 "10K" H 6700 2100 50  0000 C CNN
-F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 6420 2050 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 6500 2050 50  0001 C CNN
-	1    6500 2050
-	-1   0    0    1   
+F 0 "RN1" H 9450 2550 50  0000 C CNN
+F 1 "10K" H 9450 2650 50  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 9170 2600 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 9250 2600 50  0001 C CNN
+	1    9250 2600
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	6450 1400 6500 1400
